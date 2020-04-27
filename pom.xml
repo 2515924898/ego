@@ -10,6 +10,7 @@
         <module>ego-item-interface</module>
         <module>ego-item/ego-item-interface</module>
         <module>ego-common</module>
+        <module>ego-upload</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
